@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tmshakil.github.io/BrightPath-Home-Tutors-Dhaka/sitemap.xml
